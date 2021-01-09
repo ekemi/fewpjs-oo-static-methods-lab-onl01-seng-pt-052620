@@ -30,6 +30,6 @@ else if( x[i]!==y[i]) {
 temp.push(x[i][0].toUpperCase+x[i].slice(1,))
 console.log(temp)
 }
-    
+
   }
 }
